@@ -6,4 +6,5 @@ IMAGE_FEATURES += "splash"
 LICENSE = "MIT"
 
 inherit core-image
+require pinktablet-image.bb
 
