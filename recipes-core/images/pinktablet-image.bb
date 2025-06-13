@@ -7,3 +7,4 @@ LICENSE = "MIT"
 
 inherit core-image
 
+CORE_IMAGE_EXTRA_INSTALL += "pinktablet-packagegroup-gnome"
